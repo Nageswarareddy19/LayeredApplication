@@ -36,7 +36,8 @@ public class StudentDAOImpl implements StudentDAO {
 
 		return result;
 	}
-
+	public int update(StudentBO bo) throws Exception {
+//update method is added
 	}
 
 }
