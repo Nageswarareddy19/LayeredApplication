@@ -39,7 +39,10 @@ public class StudentDAOImpl implements StudentDAO {
 
 
 	public int update(StudentBO bo) throws Exception {
-
+		//update method logic
+	}
+	public int delete(StudentBo bo)throws Exception{
+		//delete mehod logic
 	}
 
 }
