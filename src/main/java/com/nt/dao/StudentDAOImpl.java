@@ -36,10 +36,9 @@ public class StudentDAOImpl implements StudentDAO {
 
 		return result;
 	}
-	public int delete(StudentBO bo) throws Exception{
-	//delete method is added
 
-	}
+
+	public int update(StudentBO bo) throws Exception {
 
 	}
 
